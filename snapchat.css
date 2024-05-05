@@ -1,0 +1,156 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: #e3df0f;
+    font-family: Avenir Next,Helvetica,sans-serif;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center; 
+}
+#first{
+    width: 17%;
+    display: flex;
+  
+  text-align: center;
+  justify-content: space-around;
+  margin: 20px;
+}
+.image{
+    height: 40px;
+    width: 40px;
+}
+.fa-snapchat{
+    font-size: 30px;
+    background-color: transparent;
+    
+    margin: 10px;
+    cursor: pointer;
+     
+ 
+}
+div i{
+
+    background-color: transparent;
+}
+
+#input{
+    height: 35px;
+    width: 100%;
+    background: #f4f1f1;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    margin-top: 9px;
+}
+input{
+    height: 35px;
+    border: none;
+    outline: none;
+    background-color: #f4f1f1;
+}
+#second{
+    width: 40%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+
+.logo{
+    color: black;
+    text-decoration: none;
+}
+.text{
+    cursor: pointer;
+}
+#third{
+    display:flex;
+    margin: 0 25px;
+}
+ul{
+    display: flex ;
+    list-style: none;
+    align-items: flex-end;
+    background-color: transparent;
+    margin: 0 55px;  
+}
+
+li{
+    font-size: 30px;
+    margin: 0 20px;
+}
+p{
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 -5px;
+}
+.fa-bars{
+    margin-right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+button{
+    height: 35px;
+    width: 140px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+aside{
+    display: flex;
+}
+#contant{
+margin: 130px 180px;
+}
+h1{
+  display: flex;
+    font-size: 70px;
+    font-weight: 600;
+    font-family: Avenir Next,Helvetica,sans-serif;
+    line-height: 80px;
+}
+#paragraph{
+    font-size: 30px;
+}
+/* .fa-laptop .fa-microsoft{
+    color: #f4f1f1;
+} */
+#button1{
+    height: 50px;
+    width: 40%;
+    font-size: 15px;
+    cursor: pointer;
+}
+#button2{
+    height: 50px;
+    width: 35%;
+    border-radius: 15px;
+    margin: 10px 15px;
+    cursor: pointer;
+
+    
+}
+.fa-microsoft{
+    padding-block: 10px;
+}
+#txt1{
+    font-size: 14px;
+    background-color: black;
+    padding:0px 30px 0px 10px;
+    
+}
+article{
+    margin: 0 -50px;
+}
+#color{
+
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #4b9bd1;
+    color: white;
+    
+}
